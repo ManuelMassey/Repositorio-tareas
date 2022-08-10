@@ -2,5 +2,3 @@ agua
 leche
 carne
 huevos
-manzana
-cafe
