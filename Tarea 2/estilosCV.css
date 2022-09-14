@@ -1,0 +1,36 @@
+.foto{
+position: relative;
+left: 600px;
+}
+
+.nombre{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    top: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: brown;
+    
+}
+
+.content{
+    text-align: center;
+    color: brown;
+}
+
+.parrafo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: brown;
+}
+
+.formulario{
+    text-align: end;
+    font-weight: bold;
+}
+
+.listas{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
